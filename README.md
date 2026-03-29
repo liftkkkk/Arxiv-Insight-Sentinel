@@ -40,6 +40,8 @@ Retrieval-Augmented Generation with Graph-Structured Memory
 
 高分的在前，一眼看出今天有没有值得精读的。
 
+![图谱视图](docs/c01.jpeg)
+
 ---
 
 ## 快速开始
